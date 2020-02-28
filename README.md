@@ -14,4 +14,7 @@ Also some functionalities are added.</BR>
 </BR>  Though it does not have a standard memory.
 </BR>  It can not save data. Although it has all the basic functionality.
 </BR>  There are various scopes to upgrade this App.
-
+### BetaV20200229
+</BR>In this release made some improvements in state management.
+</BR> I learned about provider package.
+</BR>Added delete feature in app task list.
